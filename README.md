@@ -188,7 +188,5 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 For any queries or suggestions, please reach out to:
 - Email: narottam18879@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nar0ttam/)
+- LinkedIn: (https://www.linkedin.com/in/nar0ttam/)
 
----
-Built with ❤️ using TensorFlow and Streamlit 
