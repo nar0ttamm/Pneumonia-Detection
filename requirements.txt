@@ -1,6 +1,6 @@
-tensorflow-cpu==2.15.0
-numpy==1.24.3
-streamlit==1.31.1
-pillow==10.0.1
-opencv-python-headless==4.8.1.78
-protobuf==3.20.3 
+tensorflow-cpu
+numpy
+streamlit
+pillow
+opencv-python-headless
+protobuf
