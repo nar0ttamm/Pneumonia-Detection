@@ -1,0 +1,3 @@
+Deep learning model to detect pneumonia from chest X-ray images using computer vision techniques.
+
+🔗 Try it out: https://pneumonia-detection-ml.streamlit.app 
